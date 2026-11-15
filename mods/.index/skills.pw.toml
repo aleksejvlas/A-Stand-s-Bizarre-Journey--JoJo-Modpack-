@@ -1,0 +1,21 @@
+filename = 'puffish_skills-0.19.2-1.20-fabric.jar'
+name = "Pufferfish's Skills"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.19.2'
+
+[download]
+hash = '5e78f6ec5b084833248dea113f8081e8cc4700e0fd97a4a00820f23ea0e5db6c1705f0fbdb904658279f716b34d8eede3ae7e6ad6c008b4ff277a65fa3e423d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hqQqvaa4/versions/g3pzFlwX/puffish_skills-0.19.2-1.20-fabric.jar'
+
+[update.modrinth]
+mod-id = 'hqQqvaa4'
+version = 'g3pzFlwX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

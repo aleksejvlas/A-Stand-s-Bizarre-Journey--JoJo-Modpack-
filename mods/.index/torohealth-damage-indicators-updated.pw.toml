@@ -1,0 +1,21 @@
+filename = 'torohealth-1.20.1-fabric-2.jar'
+name = 'ToroHealth Damage Indicators (Updated)'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-fabric-2'
+
+[download]
+hash = 'ffa812a0d0986b9d106f6c7a7c7d1772f6c7a493dc228a629f8ee05a052ce03737c1dd6d73b1dce17cb8c133a22d9613d7417bbdc4e709ff73fb061289e638cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FZGNeNIO/versions/4svmuvnn/torohealth-1.20.1-fabric-2.jar'
+
+[update.modrinth]
+mod-id = 'FZGNeNIO'
+version = '4svmuvnn'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

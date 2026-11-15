@@ -1,0 +1,18 @@
+filename = 'jcraft-fabric-0.18.2.jar'
+name = 'JCraft'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.18.2'
+
+[download]
+hash = '3fc128f5ef07b402decab5937416bbf1c01d0eb1868de528134a78b975340f45c8770c301a1b0c8c5600f47e5183749db62e7af7cec578d94ec6b6077e723372'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Hcpu2FXm/versions/HxiSNsxZ/jcraft-fabric-0.18.2.jar'
+
+[update.modrinth]
+mod-id = 'Hcpu2FXm'
+version = 'HxiSNsxZ'

@@ -1,0 +1,51 @@
+# === Системні папки та кеші рушія ===
+logs/
+crash-reports/
+.fabric/
+.mixin.out/
+remappedSrc/
+assets/
+libraries/
+versions/
+natives/
+modernfix/
+data/
+
+# === Світи, бекапи та скріншоти ===
+saves/
+backups/
+screenshots/
+xaero/
+
+# === Моди (ігноруємо важкі .jar, але трекаємо індекс Modrinth/Packwiz) ===
+mods/*.jar
+mods/*.jar.disabled
+!mods/.index/
+!mods/.index/*.pw.toml
+
+# === Кеші та тимчасові файли в config/ ===
+config/.puzzle_cache/
+config/rpg_series/tag_cache.json
+config/rpg_series/loot_fallback_report.json
+config/etf_warnings.json
+config/sodium-fingerprint.json
+config/xaeropatreon.txt
+config/roughlyenoughitems/favorites.json5
+config/roughlyenoughitems/hints.json
+config/roughlyenoughitems/pinyin*.properties
+
+# === Тимчасові та локальні файли клієнта ===
+usercache.json
+usernamecache.json
+irisUpdateInfo.json
+patchouli_data.json
+realms_persistence.json
+servers.dat
+servers.dat_old
+*.log
+*.tmp
+
+# === Локальні скрипти ===
+spysok.bat
+get_files.bat
+modpack_files_list.txt
