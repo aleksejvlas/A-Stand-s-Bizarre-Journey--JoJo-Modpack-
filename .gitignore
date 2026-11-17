@@ -1,51 +1,30 @@
-# === Системні папки та кеші рушія ===
-logs/
-crash-reports/
-.fabric/
-.mixin.out/
-remappedSrc/
-assets/
-libraries/
-versions/
-natives/
+saves/
+xaero/
+backups/
+
 modernfix/
 data/
-
-# === Світи, бекапи та скріншоти ===
-saves/
-backups/
+logs/
+crash-reports/
 screenshots/
-xaero/
-
-# === Моди (ігноруємо важкі .jar, але трекаємо індекс Modrinth/Packwiz) ===
-mods/*.jar
-mods/*.jar.disabled
-!mods/.index/
-!mods/.index/*.pw.toml
-
-# === Кеші та тимчасові файли в config/ ===
+.cache/
 config/.puzzle_cache/
-config/rpg_series/tag_cache.json
-config/rpg_series/loot_fallback_report.json
-config/etf_warnings.json
-config/sodium-fingerprint.json
-config/xaeropatreon.txt
-config/roughlyenoughitems/favorites.json5
-config/roughlyenoughitems/hints.json
-config/roughlyenoughitems/pinyin*.properties
+.fabric/
 
-# === Тимчасові та локальні файли клієнта ===
 usercache.json
 usernamecache.json
-irisUpdateInfo.json
 patchouli_data.json
-realms_persistence.json
-servers.dat
-servers.dat_old
-*.log
-*.tmp
-
-# === Локальні скрипти ===
+irisUpdateInfo.json
 spysok.bat
-get_files.bat
 modpack_files_list.txt
+
+config/sodium-fingerprint.json
+config/etf_warnings.json
+config/xaeropatreon.txt
+config/rpg_series/loot_fallback_report.json
+config/rpg_series/tag_cache.json
+
+
+resourcepacks/ASBJ_Fixes_UA/
+
+mods/*.jar
