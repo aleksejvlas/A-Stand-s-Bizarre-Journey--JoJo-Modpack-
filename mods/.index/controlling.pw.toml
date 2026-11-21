@@ -17,10 +17,10 @@ mod-id = 'xv94TkTM'
 version = '6ipZLQSK'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'fuuu3xnx'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
 type = 'REQUIRED'
 version = 'XheZ9iGK'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fuuu3xnx'
+type = 'REQUIRED'

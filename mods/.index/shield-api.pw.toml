@@ -1,6 +1,6 @@
 filename = 'shield_api-fabric-2.2.0+1.20.1.jar'
 name = 'Shield API'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

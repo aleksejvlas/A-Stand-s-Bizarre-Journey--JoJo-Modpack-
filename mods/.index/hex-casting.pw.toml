@@ -1,6 +1,6 @@
 filename = 'hexcasting-fabric-1.20.1-0.11.4.jar'
 name = 'Hex Casting'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -17,29 +17,14 @@ mod-id = 'nTW3yKrm'
 version = 'd1pTywTc'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-version = 'FLGCXPFi'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nU0bVIaL'
-type = 'REQUIRED'
-version = 'PKvFvHeb'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'K01OU20C'
-type = 'REQUIRED'
-version = 'HykM2Qyv'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'fin1PX4m'
 type = 'REQUIRED'
 version = 'n7VmkBLu'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'Ha28R6CL'
+addonId = 'P7dR8mSH'
 type = 'REQUIRED'
-version = 'LcgnDDmT'
+version = 'FLGCXPFi'
 
 [[x-prismlauncher-dependencies]]
 addonId = '9s6osm5g'
@@ -50,3 +35,18 @@ version = 's7VTKfLA'
 addonId = 'TZo2wHFe'
 type = 'REQUIRED'
 version = 'dabyDTwJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+version = 'LcgnDDmT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'
+version = 'PKvFvHeb'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'REQUIRED'
+version = 'HykM2Qyv'

@@ -1,6 +1,6 @@
 filename = 'jcraft-fabric-0.18.2.jar'
-name = 'JCraft'
-side = ''
+name = 'JCRAFT: Eyes of Ender (JoJo)'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

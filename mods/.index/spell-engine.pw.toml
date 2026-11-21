@@ -1,6 +1,6 @@
 filename = 'spell_engine-fabric-1.10.10+1.20.1.jar'
 name = 'Spell Engine'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
@@ -17,11 +17,15 @@ mod-id = 'XvoWJaA2'
 version = 'mvZvOSVL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '9s6osm5g'
+addonId = 'P7dR8mSH'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
+addonId = '5aaWibi9'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -30,8 +34,4 @@ type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'gedNE4y2'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '5aaWibi9'
 type = 'REQUIRED'

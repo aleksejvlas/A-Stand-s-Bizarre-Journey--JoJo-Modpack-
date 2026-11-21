@@ -1,6 +1,6 @@
 filename = 'zRemove_SDL_Intro_v1.2.2.jar'
-name = 'Remove Terralith Intro Message'
-side = ''
+name = 'Remove Stardust Labs Intro Message'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [

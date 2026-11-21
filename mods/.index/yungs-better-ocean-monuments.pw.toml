@@ -17,17 +17,17 @@ mod-id = '3dT9sgt4'
 version = '4c00pjbt'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
 addonId = '9s6osm5g'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'Ua7DFN59'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'mOgUt4GM'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ua7DFN59'
+type = 'REQUIRED'

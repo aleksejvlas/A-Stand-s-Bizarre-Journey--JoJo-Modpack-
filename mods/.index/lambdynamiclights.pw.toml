@@ -17,13 +17,13 @@ mod-id = 'yBW8D80W'
 version = 'AQfTnYyJ'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'PxQSWIcD'
 type = 'INCOMPATIBLE'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'reCfnRvJ'
 type = 'INCOMPATIBLE'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'

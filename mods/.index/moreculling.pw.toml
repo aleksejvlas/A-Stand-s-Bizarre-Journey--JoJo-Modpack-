@@ -1,6 +1,6 @@
 filename = 'moreculling-1.20.1-0.24.6.jar'
 name = 'More Culling'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]

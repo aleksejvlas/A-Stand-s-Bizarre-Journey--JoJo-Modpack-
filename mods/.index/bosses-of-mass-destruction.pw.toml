@@ -21,15 +21,15 @@ addonId = '9s6osm5g'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'Ha28R6CL'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
 addonId = '8BmcQJ2H'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'K01OU20C'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]

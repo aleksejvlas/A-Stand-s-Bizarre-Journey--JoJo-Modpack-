@@ -1,6 +1,6 @@
 filename = 'fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar'
 name = 'Fabric Language Kotlin'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [

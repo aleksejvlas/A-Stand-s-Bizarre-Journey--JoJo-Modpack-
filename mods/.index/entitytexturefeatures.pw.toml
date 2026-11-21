@@ -1,6 +1,6 @@
 filename = 'entity_texture_features-7.2.7-1.20.1-fabric.jar'
-name = 'Entity Texture Features'
-side = ''
+name = '[ETF] Entity Texture Features'
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
